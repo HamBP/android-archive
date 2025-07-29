@@ -24,3 +24,7 @@ Android에서 Deep link, Web link, App link 의 기본 개념과 사용 방법�
 
 #### [Compose stability tips and tricks](https://leedwon.github.io/posts/Compose-stability-tips-and-tricks/)
 팀원으로부터 이 컴포저블은 이미 Stable한 것이 아닌가? 하는 질문을 받았다. LayoutInflator를 확인하는 것 말고도 이것을 확인할 수 있는 방법이 있을까? 이 글에서는 안정성을 체크하고 수정하는 방법에 대해 설명한다.
+
+#### [mutableStateOf(list) vs mutableStateListOf()](https://tigeroakes.com/posts/mutablestateof-list-vs-mutablestatelistof/)  
+불변 리스트를 다루는가? 아니면 가변 리스트를 다루는가? 상황에 따라 적절한 상태를 사용해야 한다.
+
