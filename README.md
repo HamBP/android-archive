@@ -28,3 +28,9 @@ Android에서 Deep link, Web link, App link 의 기본 개념과 사용 방법�
 #### [mutableStateOf(list) vs mutableStateListOf()](https://tigeroakes.com/posts/mutablestateof-list-vs-mutablestatelistof/)  
 불변 리스트를 다루는가? 아니면 가변 리스트를 다루는가? 상황에 따라 적절한 상태를 사용해야 한다.
 
+## UX/UI
+#### [실전 UI/UX - 약관 동의를 설계할 때 고려해야 할 것](https://yozm.wishket.com/magazine/detail/1174/)
+이용 약관 동의를 어떻게 배치할 것인가에 대해 고민을 담은 글이다. 체크 박스, 필수 항목 표기법에 따른 사용자가 느끼는 UX를 상세하게 설명한다.
+
+#### [거꾸로 입력하는 가입 화면, 처음에 어떻게 떠올렸을까?](https://toss.tech/article/toss-signup-process)
+모바일 화면에서 input이 많아지면 키보드에 의해 콘텐츠가 가려지게 된다. 한 화면에서 하나의 TextField를 두는 게 최선일까? 이에 대한 토스의 해결 과정을 보여준다.
