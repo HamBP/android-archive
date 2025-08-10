@@ -17,6 +17,13 @@ Android에서 Deep link, Web link, App link 의 기본 개념과 사용 방법�
 
 #### [안드로이드, 어디까지 아세요 [1] - Build process](https://medium.com/mj-studio/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%95%84%EC%84%B8%EC%9A%94-1-build-process-df6a69f73337)
 
+## Compose
+
+#### [LayoutNode: What Actually Happens When You Write @Composable](https://proandroiddev.com/layoutnode-what-actually-happens-when-you-write-composable-05c0275875fa)
+레이아웃을 표현하는 Composable (Text, Column, ...) 함수는 결국 LayoutNode로 표현된다. 그렇다면 이 Layout은 내부적으로 어떻게 동작할까? 나는 이 글을 이해했다는 가장 확실한 증거는 커스텀 레이아웃 즉, MeasurePolicy를 구현해보는 것이라 생각한다.
+
+#### 
+
 ## Recomposition
 
 #### [Jetpack Compose 성능 최적화를 위한 Stability 이해하기](https://velog.io/@skydoves/compose-stability#immutable-collections)
