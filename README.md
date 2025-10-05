@@ -13,9 +13,13 @@ Android에서 Deep link, Web link, App link 의 기본 개념과 사용 방법�
 #### [링크의 모든것(feat. App Link, Universal Link, Deferred DeepLink)](https://medium.com/prnd/%EB%94%A5%EB%A7%81%ED%81%AC%EC%9D%98-%EB%AA%A8%EB%93%A0%EA%B2%83-feat-app-link-universal-link-deferred-deeplink-61d6cf63a0a5)  
 [박상권님 블로그] Uri scheme 방식 및 link 가 변화해 온 과정. 
 
-## Android build system
+## Android Fundamentals
 
 #### [안드로이드, 어디까지 아세요 [1] - Build process](https://medium.com/mj-studio/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%95%84%EC%84%B8%EC%9A%94-1-build-process-df6a69f73337)
+
+#### [[번역] Zygote 부터 Binder까지](https://medium.com/@l2hyunwoo/%EB%B2%88%EC%97%AD-zygote-%EB%B6%80%ED%84%B0-binder%EA%B9%8C%EC%A7%80-2e689a5bec8d)
+
+앱 내에서 다른 앱을 실행할 때 발생하는 일에 대하여, 안드로이드가 추상화한 내용을 설명한다.
 
 ## Compose
 
